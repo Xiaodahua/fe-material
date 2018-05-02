@@ -1,7 +1,6 @@
 ## fe-material
 整理最有趣的前端技术教程及文档，欢迎大家都来补充让更多的多学找到学习一手好资料
 ### 前端工具
-
   - Git
     1. [入门篇](https://backlog.com/git-tutorial/cn/intro/intro1_1.html)
     2. [高级篇](https://backlog.com/git-tutorial/cn/stepup/stepup1_1.html)
@@ -121,8 +120,6 @@
   - ES5
     1. [ES5新特性与ES3的对比](http://www.hahack.com/wiki/javascript-es5.html#es5-%E7%9A%84%E6%96%B0%E7%89%B9%E6%80%A7)
     2. [ES5新特性博客](http://pij.robinqu.me/JavaScript_Core/ECMAScript/es5.html)
-
-
 ### 服务端教程
 
   - [Nginx入门](http://cnt1992.xyz/2016/03/18/simple-intro-to-nginx/)
